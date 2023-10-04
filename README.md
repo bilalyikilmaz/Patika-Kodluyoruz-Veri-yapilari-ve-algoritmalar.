@@ -1,0 +1,1 @@
+# Patika-Kodluyoruz-Veri-yapilari-ve-algoritmalar.
